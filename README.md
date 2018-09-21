@@ -1,7 +1,6 @@
 # Hello World
 
 Hello world in different programming languages.
-# CodeIgniter Rest Server
 
 [![Gitter chat](https://badges.gitter.im/chriskacerguis/codeigniter-restserver.png)](https://gitter.im/codeigniter-restserver/Lobby)
 
